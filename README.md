@@ -4,7 +4,7 @@ An end-to-end data analytics project using Python, MySQL, and Power BI to explor
 
 ## Project Overview Dashboard
 
-![Customer Spending Analytics Dashboard](dashboard-overview.png)
+customer_sales_&_behavior_insights/dashboard-overview.png
 
 ## Project Overview
 
