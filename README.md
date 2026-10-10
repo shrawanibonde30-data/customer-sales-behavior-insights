@@ -4,7 +4,7 @@ An end-to-end data analytics project using Python, MySQL, and Power BI to explor
 
 ## Project Overview Dashboard
 
-![Dashboard Overview](delivery-performance-analytics-dashboard/delivery_performance_dashboard.png)
+![Dashboard Overview](customer_sales_&_behavior_insights/dashboard-overview.png)
 
 ## Project Overview
 
